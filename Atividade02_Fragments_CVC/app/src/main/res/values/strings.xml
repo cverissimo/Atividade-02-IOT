@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Atividade02_CVC</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnPreto">Preto</string>
+    <string name="btnAzul">Azul</string>
+    <string name="btnVerde">Verde</string>
+    <string name="btnVermelho">Vermelho</string>
+    <string name="btnAmarelo">Amarelo</string>
+</resources>
